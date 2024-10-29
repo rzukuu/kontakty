@@ -52,7 +52,7 @@ let kontakty = [
         email: "libero@convallis.edu"
     }
     ]
-
+console.log("xxxxx");
 kontakty[3] = {
     name: "Maisie Haley",
     phone: "09135313030",
